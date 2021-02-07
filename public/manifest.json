@@ -1,0 +1,21 @@
+{
+  "name": "Pokedex",
+  "short_name": "Pokedex utilizando Poke API",
+  "icons": [
+    {
+      "src": "ConfigPokedex.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "React Avançado - Boilerplate - Google Chrome 2021-02-01 15-12-01.gif",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "background_color": "#06092B",
+  "description": "Pokedex utilizando Typescript, React, NextJS, Styled Components e Apollo CLient!",
+  "display": "fullscreen",
+  "start_url": "/",
+  "theme_color": "#06092B"
+}
